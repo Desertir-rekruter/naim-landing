@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naim.strategi-consult.com/sitemap.xml
